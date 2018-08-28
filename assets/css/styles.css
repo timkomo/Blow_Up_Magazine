@@ -1,0 +1,62 @@
+
+body{
+    background-color: black;
+}
+
+.logo{
+    font-family: 'Anton', sans-serif;
+    font-size: 48px;
+    background-color: white;
+    margin-bottom:0;
+}
+
+.main-header{
+        overflow: hidden;
+        position: fixed;
+        top: 0;
+        width: 100%;
+        z-index:1000;
+        margin-bottom:0;
+        
+      }
+
+      .nav {
+        overflow: hidden;
+        position: fixed;
+        width: 100%;
+        z-index:1000;
+        background-color: black;
+        margin-top:0;
+        
+      }
+.main {
+    margin-top: 150px;
+}
+
+.nav-link{
+    color:white;
+    font-size: 24px;
+}
+
+.nav-link:hover{
+    color:rgb(115, 206, 206);
+    font-size: 24px;
+}
+
+h4{
+    color:black;
+    font-family: 'Anton', sans-serif;
+
+
+}
+
+h4:hover{
+   
+    color:rgb(115, 206, 206);
+}
+
+a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none;
+}
+
